@@ -1,0 +1,13 @@
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.pdb
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.dll.manifest
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\PowerPointAddIn1.vsto
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csprojAssemblyReference.cache
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Properties.Resources.resources
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.GenerateResource.cache
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CoreCompileInputs.cache
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.csproj.CopyComplete
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.dll
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.pdb
+C:\Addin\PP2\PowerPointAddIn1\PowerPointAddIn1\obj\Debug\PowerPointAddIn1.Ribbon1.resources
